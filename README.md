@@ -6,6 +6,8 @@
 
 The project is still under development. You can peek around.
 
+The interactive interface is available at [https://kulminaator.github.io/web-drum-maker/](https://kulminaator.github.io/web-drum-maker/)
+
 **Status:** The UI is a per-source knob-card builder wearing a joyful
 indigo-dusk theme — a deep indigo base under a tokenized sunset
 gradient wash — with a warm coral accent (the per-drum color coding
